@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align="center">
+  <h1>¡Hola! Soy Daniel Lozano</h1>
+</div>
 
-<!--
-**dlozanoc82/dlozanoc82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Como Front-End Developer, tengo una pasión por la creación de interfaces de usuario atractivas y funcionales que mejoren la experiencia del usuario. Con experiencia en HTML, CSS, JavaScript y otros lenguajes de programación web, estoy comprometido a escribir código limpio, escalable y bien documentado.
 
-Here are some ideas to get you started:
+Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades, y estoy emocionado de trabajar en proyectos desafiantes que me permitan hacer una contribución significativa. Si buscas un desarrollador Front-End confiable, detallista y comprometido con la calidad, ¡no dudes en ponerse en contacto conmigo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Comandos de la Terminal
+
+| Name     |   Description                            |
+| -------- |------------------------------------------|
+| mkadir   | Este comando permite crear un directorio |
+| cd       | Navegar entre directorios                |
+| ls       | Lista el contenido de un directorio      |
+| cat      | Imprime el contenido de un archivo       |
+| clear    | Limpiar la terminal                      |
+
+## Comandos Alias
+1. Para evitar eliminar permanente los archivos:
+```bash
+alias rm="trash"
+```
+2. Comando alias para clear:
+```bash
+alias cl="clear"
+```
